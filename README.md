@@ -10,13 +10,8 @@ Sketch modified from example found [here](https://www.teachmemicro.com/arduino-r
 
 
 **Connections**
-(When in i2c mode the labels does not make sense anymore. Otherwise it would not make sense to connect MISO to SDA).
 
-Arduino     RC522
-SCL         SDA
-SDA         MISO
-3.3V        3.3V
-GND         GND
+(When in i2c mode the labels does not make sense anymore. Otherwise it would not make sense to connect MISO to SDA).
 
 
 | Arduino       | RC522         | 
