@@ -20,4 +20,5 @@ Sketch modified from example found [here](https://www.teachmemicro.com/arduino-r
 | SDA           | MISO          |
 | 3.3V          | 3.3V          |
 | GND           | GND           | 
+| Pin 3         | RST           |
 
