@@ -1,7 +1,7 @@
 #include <Wire.h>
 #include "MFRC522_I2C.h"
 
-#define RST 3
+#define RST 9
 
 
 MFRC522 mfrc522(0x3F, RST); // Create MFRC522 instance.
