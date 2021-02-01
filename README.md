@@ -20,7 +20,7 @@ Sketch modified from example found [here](https://www.teachmemicro.com/arduino-r
 | SDA           | SDA          |
 | 3.3V          | 3.3V          |
 | GND           | GND           | 
-| Pin 3         | RST           |
+| Pin 9         | RST           |
 
 
 A great tool for debugging i2c is an i2c scanner program, like [this](https://create.arduino.cc/projecthub/abdularbi17/how-to-scan-i2c-address-in-arduino-eaadda)
