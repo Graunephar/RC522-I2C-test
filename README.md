@@ -1,6 +1,6 @@
-PlatformIO project showing how to use RC522 Mini in i2c mode. 
+PlatformIO example project showing how to use RC522 Mini in i2c mode. 
 
-To set the breakout board in i2c mode you need to cut the connection grounding pin 1 as discussed in [this thread](https://forum.arduino.cc/index.php?topic=442750.0) on the arduino forum 
+To set the breakout board in i2c mode you need to cut the connection grounding pin 1 as discussed in [this thread](https://forum.arduino.cc/index.php?topic=442750.0) on the arduino forum.
 
 I used the drill method suggested by Renate-USB in above post. 
 
@@ -18,4 +18,11 @@ SDA         MISO
 3.3V        3.3V
 GND         GND
 
+
+| Arduino       | RC522         | 
+| :-----------  | :----------:  | 
+| SCL           | SDA           | 
+| SDA           | MISO          |
+| 3.3V          | 3.3V          |
+| GND           | GND           | 
 
